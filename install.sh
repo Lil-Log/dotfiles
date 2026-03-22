@@ -17,3 +17,8 @@ if ! grep -q ".rokit/bin" "$HOME/.bashrc"; then
 fi
 
 echo "Rokit, Wally, Argon 설치 완료!"
+
+# 6. windsurf plugin install
+code --install-extension Codeium.codeium
+
+echo "windsurf 플러그인 설치 완료"
