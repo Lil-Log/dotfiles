@@ -19,6 +19,6 @@ fi
 echo "Rokit, Wally, Argon 설치 완료!"
 
 # 6. windsurf plugin install
-code --install-extension Codeium.codeium
+code --install-extension Codeium.codeium --force
 
 echo "windsurf 플러그인 설치 완료"
